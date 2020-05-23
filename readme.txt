@@ -326,10 +326,7 @@ No, there was no data protection impact analysis conducted.
 Yes, the dataset was labelled. Parts of the dataset are labelled, such as the 
 sentiment, if the sentiment was lower than -0.2 it was labelled as negative, 
 higher than 0.2 it is positive otherwise it is labelled as neutral.  
-And tweets that has been retweeted are labelled as geRT. 
-We also wanted to translatie the dataset but since we only could 
-translate one tweet at the time we used a Dutch dictionary for the sentiment 
-analysis.
+And tweets that has been retweeted are labelled as retweeted. 
 
 4.2  Was the "raw" data saved in addition to the
     preprocessed/cleaned/labeled data (e.g., to support unanticipated
